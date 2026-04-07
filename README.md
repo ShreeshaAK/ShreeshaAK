@@ -8,7 +8,7 @@ CSE Student with a strong foundation in Artificial Intelligence, Web Development
 
 Proficient in AI/ML, networking concepts, Python, and both front-end and back-end frameworks. Committed to
 
-developing innovative AI solutions and web technologies, with a focus on contributing to advanced projects.
+developing innovative AI solutions and web technologies, with a focus on contributing to advance projects.
 
 * 🌍  I'm based in Bengaluru, Karnataka, India
 * ✉️  You can contact me at [shreeshaak08@gmail.com](mailto:shreeshaak08@gmail.com)
